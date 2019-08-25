@@ -318,7 +318,7 @@ a {
         background-position: center 10%;
    
     }
-        @media (max-width: 650px) {
+        /* @media (max-width: 650px) {
         .bgimg-2 {
             background-image: url("assets/hair_tool.jpg");
             min-height: 100%;
@@ -326,7 +326,7 @@ a {
             background-position: center;
             background-size: cover;
         }
-    }
+    } */
 
     .bgimg-3 {
         background-position: center;
@@ -337,7 +337,7 @@ a {
         background-position: center 10%;
    
     }
-        @media (max-width: 650px) {
+        /* @media (max-width: 650px) {
         .bgimg-3 {
             background-image: url("assets/back_shot_2.jpg");
             min-height: 100%;
@@ -345,7 +345,7 @@ a {
             background-position: center;
             background-size: cover;
         }
-    }
+    } */
     /* @media (max-width: 650px) {
         .bgimg-1 {
             background-image: url("assets/Hansen_up.jpeg");
